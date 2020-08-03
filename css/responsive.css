@@ -1,0 +1,70 @@
+@media (max-width: 991px) {
+  h2 {
+    font-size: 40px;
+  }
+  #header {
+    display: none;
+  }
+  .slicknav_menu {
+    display: block;
+  }
+  #hero .hero-intro h1 {
+    font-size: 50px;
+  }
+  #create h2 {
+    font-size: 35px;
+  }
+  #customer .customer-container .single-item .customer-icon i {
+    font-size: 40px;
+  }
+  #plan .single-item .btn {
+    padding: 30px 40px;
+  }
+  #tips .tips-container .single-item .tips-content h4 {
+    padding-right: 0;
+  }
+  #tips .tips-container .single-item .tips-content span {
+    padding-left: 50px;
+    font-size: 13px;
+  }
+  #tips .tips-container .single-item .tips-content span::before {
+    width: 30px;
+  }
+  #portfolio .portfolio-content {
+    padding: 10px 0 0 30px;
+  }
+  #portfolio .portfolio-content h3 {
+    font-size: 25px;
+  }
+  #footer .first-footer .social-links {
+    margin-top: 32px;
+  }
+  #footer .first-footer .social-links i {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  #plan .plan-container .single-item {
+    margin-bottom: 100px;
+  }
+  #portfolio .portfolio-container {
+    padding-left: 40px !important;
+  }
+  #have .have-contact {
+    float: none;
+  }
+  #footer .top-footer {
+    padding-left: 20px !important;
+  }
+  #form .contact-form {
+    margin-bottom: 50px;
+    padding-right: 0;
+  }
+  #form .single-contact {
+    padding-left: 0;
+  }
+}
+
+/* =================================== Contact Page Start =================================== */
+/*# sourceMappingURL=responsive.css.map */
